@@ -1,0 +1,19 @@
+{
+  "name": "Escape POS",
+  "short_name": "EscapePOS",
+  "description": "Offline Barcode POS System for Gaming Lounge",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090b0e",
+  "theme_color": "#ff6a00",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='128' fill='%23090b0e'/%3E%3Crect x='32' y='32' width='448' height='448' rx='96' fill='none' stroke='%23ff6a00' stroke-width='16'/%3E%3Cpath d='M120 160h40v192h-40zm60 0h20v192h-20zm50 0h40v192h-40zm70 0h20v192h-20zm50 0h50v192h-50z' fill='%23ff6a00'/%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
