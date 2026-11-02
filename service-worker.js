@@ -1,4 +1,4 @@
-const CACHE_NAME = 'escape-pos-v1';
+const CACHE_NAME = 'escape-pos-v2';
 
 // Core assets required for 100% offline operation
 const PRECACHE_ASSETS = [
